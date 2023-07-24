@@ -1,1 +1,4 @@
 *.png
+\bin
+\bin\markdown.md
+.gitignore
