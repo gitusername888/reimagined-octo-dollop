@@ -61,3 +61,13 @@
     --overwrite-ignore    update ignored files (default)
     --signoff             add a Signed-off-by trailer
     --no-verify           bypass pre-merge-commit and commit-msg hooks
+
+   
+✦ cherry-pick
+
+✦ reset
+
+✦ revert
+
+✦ rebase
+
